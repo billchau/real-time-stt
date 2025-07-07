@@ -16,7 +16,9 @@ The goal of this project is transcribing the speech from the live streams in any
 
 ## Requirement
 Windows OS as the loopback audio library is Windows base
+
 Python3
+
 Cuda developmenet tool kit
 
 ## How to use
